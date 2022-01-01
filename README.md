@@ -4,7 +4,10 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://crannk.me/)](https://crannk.me/)
 
-[![crannk's github activity graph](https://activity-graph.herokuapp.com/graph?username=crannk&theme=xcode)](https://github.com/crannk)
+<div align="center">
+
+[![](https://raw.githubusercontent.com/crannk/crannk/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
 
 ## ⚡ Technologies
 
@@ -28,9 +31,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 
 <div align="center">
   
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crannk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crannk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crannk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crannk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crannk&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/crannk/crannk/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/crannk/crannk/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/crannk/crannk/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/crannk/crannk/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 <br>
 
