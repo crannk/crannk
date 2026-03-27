@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/crannk/crannk/main/profile-summary-card-output/nightowl/4-productive-time.svg)
+```
+
+    
